@@ -1,0 +1,101 @@
+{
+  "transactions": [
+    {
+      "id": 1795061833743,
+      "type": "income",
+      "amount": 50000,
+      "category": "Income",
+      "description": "salary",
+      "date": "2026-11-19"
+    },
+    {
+      "id": 1795061853064,
+      "type": "expense",
+      "amount": 5500,
+      "category": "Bills and Utilities",
+      "description": "hostel fee",
+      "date": "2026-11-19"
+    },
+    {
+      "id": 1795061940537,
+      "type": "expense",
+      "amount": 2000,
+      "category": "Food",
+      "description": "hotel",
+      "date": "2026-11-19"
+    },
+    {
+      "id": 1795062008131,
+      "type": "expense",
+      "amount": 350,
+      "category": "Bills and Utilities",
+      "description": "recharge",
+      "date": "2026-11-19"
+    },
+    {
+      "id": 1795062123200,
+      "type": "expense",
+      "amount": 450,
+      "category": "Entertainment",
+      "description": "",
+      "date": "2026-11-19"
+    },
+    {
+      "id": 1795247714439,
+      "type": "income",
+      "amount": 100000,
+      "category": "Income",
+      "description": "scholarship",
+      "date": "2026-11-21"
+    },
+    {
+      "id": 1795247747286,
+      "type": "expense",
+      "amount": 80000,
+      "category": "Bills and Utilities",
+      "description": "laptop",
+      "date": "2026-11-21"
+    },
+    {
+      "id": 1795247905764,
+      "type": "expense",
+      "amount": 4000,
+      "category": "Shopping",
+      "description": "Max shopping mall",
+      "date": "2026-11-21"
+    },
+    {
+      "id": 1795247955387,
+      "type": "expense",
+      "amount": 2000,
+      "category": "Healthcare",
+      "description": "Dental checkup",
+      "date": "2026-11-21"
+    },
+    {
+      "id": 1795248045218,
+      "type": "expense",
+      "amount": 1000,
+      "category": "Food",
+      "description": "Restaurant",
+      "date": "2026-11-21"
+    },
+    {
+      "id": 1795248133154,
+      "type": "expense",
+      "amount": 3000,
+      "category": "Education",
+      "description": "Exam fee",
+      "date": "2026-11-21"
+    },
+    {
+      "id": 1795248180653,
+      "type": "expense",
+      "amount": 3000,
+      "category": "Transportation",
+      "description": "Trip",
+      "date": "2026-11-21"
+    }
+  ],
+  "budget": 100000
+}

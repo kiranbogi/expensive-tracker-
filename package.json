@@ -1,0 +1,13 @@
+
+{
+  "name": "simple-expense-tracker",
+  "version": "2.0.0",
+  "description": "Responsive Personal Expense Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
